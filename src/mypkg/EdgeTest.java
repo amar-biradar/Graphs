@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class EdgeTest {
 
-	
+	@Test
 	void Edge() {
 		fail("Not yet implemented");
 		
